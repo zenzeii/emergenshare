@@ -1,16 +1,10 @@
-# emergenshare
+<p align="center"><img src="https://raw.githubusercontent.com/zenzeii/tubadvisor/refs/heads/main/for_github/logo.png" alt="drawing" width="56"/></p>
 
-A new Flutter project.
+# <p align="center">EMERGENSHARE</p>
+EMERGENSHARE is a platform that connects donors, charities, and people in need to efficiently share resources and improve communication during crises and ongoing poverty.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<video src="https://github.com/zenzeii/emergenshare/raw/refs/heads/master/readme/video.mp4" controls width="800" muted playsinline>
+  Your browser does not support the video tag.
+</video>
